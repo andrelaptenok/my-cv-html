@@ -1,0 +1,30 @@
+@media (min-width: 320px) and (max-width: 1280px) {
+    .main-section__name {
+        font-size: 5vw;
+    }
+    .main-section__position {
+        font-size: 3vw;
+    }
+    .section-title {
+        margin-top: 2vh;
+        margin-bottom: 4vh;
+        font-size: 2.5vw;
+    }
+    .skills-item,
+    .lang-item,
+    .about-item {
+        font-size: 2vw;
+    }
+    .education-name {
+        font-size: 2vw;
+    }
+    .education-year {
+        font-size: 1.8vw;
+    }
+    .education-section__item {
+        margin: 3vh 4.5vw;
+    }
+    .contacts-item {
+        font-size: 1.8vw;
+    }
+}
