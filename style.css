@@ -91,6 +91,7 @@ body {
     margin: 2vh 2.8vw;
     font-size: 1.4vw;
     color: rgb(35, 60, 90);
+    text-align: justify;
 }
 
 .about-item {
