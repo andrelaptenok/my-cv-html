@@ -33,31 +33,27 @@
         font-size: 6vw;
     }
     .main-section__position {
-        font-size: 4vw;
+        font-size: 5vw;
     }
     .section-title {
         margin-top: 2vh;
         margin-bottom: 4vh;
-        font-size: 3vw;
+        font-size: 5.5vw;
     }
     .skills-item,
     .lang-item,
     .project-item,
     .about-item,
+    .education-name,
     .contacts-item>i {
-        font-size: 3vw;
+        font-size: 5vw;
     }
-    .education-name {
-        font-size: 3vw;
-    }
-    .education-year {
-        font-size: 2.5vw;
+    .education-year,
+    .contacts-item {
+        font-size: 4.5vw;
     }
     .education-section__item {
         margin: 3vh 4.5vw;
-    }
-    .contacts-item {
-        font-size: 2.8vw;
     }
     .contacts-item a {
         margin-left: 0;
