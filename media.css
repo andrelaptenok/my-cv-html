@@ -1,5 +1,6 @@
 @media (min-width: 768px) and (max-width: 1280px) {
     .main-section__name {
+        margin-top: 5vw;
         font-size: 5vw;
     }
     .main-section__position {
@@ -28,6 +29,7 @@
 
 @media (min-width: 320px) and (max-width: 767px) {
     .main-section__name {
+        margin-top: 5vw;
         font-size: 6vw;
     }
     .main-section__position {

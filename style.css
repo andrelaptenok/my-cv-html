@@ -31,12 +31,14 @@ body {
 }
 
 .main-section__name {
+    margin-top: 3vw;
     font-size: 3vw;
+    line-height: 0.1vw;
 }
 
 .main-section__position {
     margin-top: 0;
-    margin-bottom: 2vh;
+    margin-bottom: 3vh;
     font-size: 2vw;
 }
 
