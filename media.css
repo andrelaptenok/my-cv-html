@@ -1,4 +1,4 @@
-@media (min-width: 320px) and (max-width: 1280px) {
+@media (min-width: 768px) and (max-width: 1280px) {
     .main-section__name {
         font-size: 5vw;
     }
@@ -12,19 +12,52 @@
     }
     .skills-item,
     .lang-item,
-    .about-item {
-        font-size: 2vw;
-    }
+    .project-item,
+    .about-item,
     .education-name {
         font-size: 2vw;
     }
-    .education-year {
+    .education-year,
+    .contacts-item {
         font-size: 1.8vw;
     }
     .education-section__item {
         margin: 3vh 4.5vw;
     }
+}
+
+@media (min-width: 320px) and (max-width: 767px) {
+    .main-section__name {
+        font-size: 6vw;
+    }
+    .main-section__position {
+        font-size: 4vw;
+    }
+    .section-title {
+        margin-top: 2vh;
+        margin-bottom: 4vh;
+        font-size: 3vw;
+    }
+    .skills-item,
+    .lang-item,
+    .project-item,
+    .about-item,
+    .contacts-item>i {
+        font-size: 3vw;
+    }
+    .education-name {
+        font-size: 3vw;
+    }
+    .education-year {
+        font-size: 2.5vw;
+    }
+    .education-section__item {
+        margin: 3vh 4.5vw;
+    }
     .contacts-item {
-        font-size: 1.8vw;
+        font-size: 2.8vw;
+    }
+    .contacts-item a {
+        margin-left: 0;
     }
 }
